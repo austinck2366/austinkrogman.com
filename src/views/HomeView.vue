@@ -1,6 +1,3 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
 
 <template>
   <section id="hero">
@@ -19,7 +16,7 @@ import TheWelcome from '../components/TheWelcome.vue'
           <div class="section-title">
             <span>About Me</span>
             <h2>About Me</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+            <p>I am Laravel Vue Full Stack Developer. My draw to Full stack developement is being able to own a project from idea to conception.</p>
           </div>
 
           <div class="row">
@@ -115,44 +112,38 @@ import TheWelcome from '../components/TheWelcome.vue'
           <div class="section-title">
             <span>My Resume</span>
             <h2>My Resume</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+            <p>.</p>
           </div>
 
           <div class="row">
             <div class="col-lg-6">
-              <h3 class="resume-title">Sumary</h3>
+              <h3 class="resume-title">Summary</h3>
               <div class="resume-item pb-0">
-                <h4>Alice Barkley</h4>
-                <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+                <h4>Austin Krogman</h4>
+                <p><em>Hardworking full-stack software developer with a passion for writing efficient yet simple code that is easy to maintain, looking for an
+                  innovative and collaborative team where I can contribute my skills to building meaningful and impactful applications.</em></p>
                 <p>
                   <ul>
-                    <li>Portland par 127,Orlando, FL</li>
-                    <li>(123) 456-7891</li>
-                    <li>alice.barkley@example.com</li>
+                    <li>Dallas, TX</li>
+                    <li>austincolekrogman@gmail.com</li>
                   </ul>
                 </p>
               </div>
 
               <h3 class="resume-title">Education</h3>
               <div class="resume-item">
-                <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                <h5>2015 - 2016</h5>
-                <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+                <h4>Bachlor of Science in Electrical Engineering</h4>
+                <h5>2015 - 2018</h5>
+                <p><em>Texas State University, San Marcos, TX</em></p>
                 <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-              </div>
-              <div class="resume-item">
-                <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                <h5>2010 - 2014</h5>
-                <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
               </div>
             </div>
             <div class="col-lg-6">
               <h3 class="resume-title">Professional Experience</h3>
               <div class="resume-item">
-                <h4>Senior graphic design specialist</h4>
-                <h5>2019 - Present</h5>
-                <p><em>Experion, New York, NY </em></p>
+                <h4>Lead Full Stack Developer</h4>
+                <h5>2023 - Present</h5>
+                <p><em>Earl Owen Co., Carrollton, TX </em></p>
                 <p>
                   <ul>
                     <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
@@ -163,9 +154,22 @@ import TheWelcome from '../components/TheWelcome.vue'
                 </p>
               </div>
               <div class="resume-item">
-                <h4>Graphic design specialist</h4>
-                <h5>2017 - 2018</h5>
-                <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                <h4>Full Stack Developer</h4>
+                <h5>2022 - 2023</h5>
+                <p><em>Earl Owen Co., Carrollton, TX</em></p>
+                <p>
+                  <ul>
+                    <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                    <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
+                    <li>Recommended and consulted with clients on the most appropriate graphic design</li>
+                    <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                  </ul>
+                </p>
+              </div>
+              <div class="resume-item">
+                <h4>Full Stack Developer</h4>
+                <h5>2022 - 2023</h5>
+                <p><em>Earl Owen Co., Carrollton, TX</em></p>
                 <p>
                   <ul>
                     <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
@@ -180,54 +184,6 @@ import TheWelcome from '../components/TheWelcome.vue'
 
         </div>
       </section><!-- End My Resume Section -->
-
-      <!-- ======= My Services Section ======= -->
-      <section id="services" class="services">
-        <div class="container">
-
-          <div class="section-title">
-            <span>My Services</span>
-            <h2>My Services</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-          </div>
-
-          <div class="row">
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-                <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bx-file"></i></div>
-                <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-                <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bx-tachometer"></i></div>
-                <h4 class="title"><a href="">Magni Dolores</a></h4>
-                <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bx-world"></i></div>
-                <h4 class="title"><a href="">Nemo Enim</a></h4>
-                <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </section><!-- End My Services Section -->
 
       <!-- ======= Testimonials Section ======= -->
       <section id="testimonials" class="testimonials">
@@ -307,206 +263,6 @@ import TheWelcome from '../components/TheWelcome.vue'
 
         </div>
       </section><!-- End Testimonials Section -->
-
-      <!-- ======= My Portfolio Section ======= -->
-      <section id="portfolio" class="portfolio">
-        <div class="container">
-
-          <div class="section-title">
-            <span>My Portfolio</span>
-            <h2>My Portfolio</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-          </div>
-
-          <ul id="portfolio-flters" class="d-flex justify-content-center">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-card">Card</li>
-            <li data-filter=".filter-web">Web</li>
-          </ul>
-
-          <div class="row portfolio-container">
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </section><!-- End My Portfolio Section -->
-
-      <!-- ======= Pricing Section ======= -->
-      <section id="pricing" class="pricing">
-        <div class="container">
-
-          <div class="section-title">
-            <span>Pricing</span>
-            <h2>Pricing</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-          </div>
-
-          <div class="row">
-
-            <div class="col-lg-3 col-md-6">
-              <div class="box">
-                <h3>Free</h3>
-                <h4><sup>$</sup>0<span> / month</span></h4>
-                <ul>
-                  <li>Aida dere</li>
-                  <li>Nec feugiat nisl</li>
-                  <li>Nulla at volutpat dola</li>
-                  <li class="na">Pharetra massa</li>
-                  <li class="na">Massa ultricies mi</li>
-                </ul>
-                <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Buy Now</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
-              <div class="box featured">
-                <h3>Business</h3>
-                <h4><sup>$</sup>19<span> / month</span></h4>
-                <ul>
-                  <li>Aida dere</li>
-                  <li>Nec feugiat nisl</li>
-                  <li>Nulla at volutpat dola</li>
-                  <li>Pharetra massa</li>
-                  <li class="na">Massa ultricies mi</li>
-                </ul>
-                <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Buy Now</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-              <div class="box">
-                <h3>Developer</h3>
-                <h4><sup>$</sup>29<span> / month</span></h4>
-                <ul>
-                  <li>Aida dere</li>
-                  <li>Nec feugiat nisl</li>
-                  <li>Nulla at volutpat dola</li>
-                  <li>Pharetra massa</li>
-                  <li>Massa ultricies mi</li>
-                </ul>
-                <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Buy Now</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-              <div class="box">
-                <span class="advanced">Advanced</span>
-                <h3>Ultimate</h3>
-                <h4><sup>$</sup>49<span> / month</span></h4>
-                <ul>
-                  <li>Aida dere</li>
-                  <li>Nec feugiat nisl</li>
-                  <li>Nulla at volutpat dola</li>
-                  <li>Pharetra massa</li>
-                  <li>Massa ultricies mi</li>
-                </ul>
-                <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Buy Now</a>
-                </div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </section><!-- End Pricing Section -->
 
       <!-- ======= Contact Me Section ======= -->
       <section id="contact" class="contact">
