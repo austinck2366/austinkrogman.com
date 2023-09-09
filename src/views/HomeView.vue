@@ -3,7 +3,7 @@
   <section id="hero">
     <div class="hero-container">
       <h1>Austin Krogman</h1>
-      <h2>I'm a Full Stack Developer passociante about build Efficent solutions</h2>
+      <h2>I'm a Full Stack Developer passionate about building efficient scalable solutions</h2>
       <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
     </div>
   </section><!-- End Hero -->
@@ -16,87 +16,53 @@
           <div class="section-title">
             <span>About Me</span>
             <h2>About Me</h2>
-            <p>I am Laravel Vue Full Stack Developer. My draw to Full stack developement is being able to own a project from idea to conception.</p>
+            <p>I am Laravel Vue Full Stack Developer with 4+ years of professional developement experience. </p>
           </div>
 
           <div class="row">
             <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
             <div class="col-lg-8 d-flex flex-column align-items-stretch">
-              <div class="content ps-lg-4 d-flex flex-column justify-content-center">
-                <div class="row">
-                  <div class="col-lg-6">
-                    <ul>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Laura Thomso</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
-                    </ul>
-                  </div>
-                  <div class="col-lg-6">
-                    <ul>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="row mt-n4">
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-emoji-smile" style="color: #20b38e;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
-                    </div>
-                  </div>
 
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-journal-richtextr" style="color: #8a1ac2;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-clock" style="color: #2cbdee;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-award" style="color: #ffb459;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="16" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
-                    </div>
-                  </div>
-                </div>
-              </div><!-- End .content-->
 
               <div class="skills-content ps-lg-4">
                 <div class="progress">
-                  <span class="skill">HTML <i class="val">100%</i></span>
+                  <span class="skill">Laravel <i class="val">85%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
-
                 <div class="progress">
-                  <span class="skill">CSS <i class="val">90%</i></span>
+                  <span class="skill">PHP 8<i class="val">85%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
-
+                <div class="progress">
+                  <span class="skill">Vue 2<i class="val">80%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
                 <div class="progress">
                   <span class="skill">JavaScript <i class="val">75%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="15" aria-valuemax="100"></div>
                   </div>
                 </div>
+                <div class="progress">
+                  <span class="skill">SQL <i class="val">75%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="15" aria-valuemax="100"></div>
+                  </div>
+                </div>
+                <div class="progress">
+                  <span class="skill">CSS <i class="val">70%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+
               </div>
 
             </div>
@@ -135,7 +101,7 @@
                 <h4>Bachlor of Science in Electrical Engineering</h4>
                 <h5>2015 - 2018</h5>
                 <p><em>Texas State University, San Marcos, TX</em></p>
-                <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                <p></p>
               </div>
             </div>
             <div class="col-lg-6">
@@ -146,36 +112,44 @@
                 <p><em>Earl Owen Co., Carrollton, TX </em></p>
                 <p>
                   <ul>
-                    <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                    <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                    <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                    <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                    <li>Lead software project design and implementation from beginning to end, while collaborating closely with management and departmental
+                      end users in an agile environment.</li>
+                    <li>Developing an in-house reactive driver portal application, utilizing PHP, Laravel, and Vue.js, that will reduce user error and improve
+                      efficiency for proof of deliveries, product refusals, returns, and collection tracking.</li>
+                    <li>Experience with multiple design patterns, including Factory pattern and Builder pattern, ensuring scalability and maintainability of
+                      codebases.</li>
+                    <li>Optimize and review SQL queries across MSS databases for multiple applications that interact with the company’s ERP to improve system
+                      reliability and performance.</li>
+                    <li>Mentor software engineers to encourage them to develop and deploy high-quality code and applications.</li>
+                    <li>Owner of multiple MSS, MySQL, and Elastic databases.</li>
                   </ul>
                 </p>
               </div>
               <div class="resume-item">
-                <h4>Full Stack Developer</h4>
+                <h4>Jr. Full Stack Developer</h4>
                 <h5>2022 - 2023</h5>
                 <p><em>Earl Owen Co., Carrollton, TX</em></p>
                 <p>
                   <ul>
-                    <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                    <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                    <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                    <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                    <li>Automated daily delivery route creation for 60+ routes and enabled paperless submission and tracking for proof of deliveries, refusals,
+                      and returns by integrating the company’s ERP system and importing invoice information to a 3rd party application using API requests.</li>
+                    <li>Utilized Samsara and ADP APIs to automate the recording of drivers’ hours of service, removing the need for drivers to clock in via
+                      multiple apps.</li>
+                    <li>Worked with our product data team to enhance automation and abilities of importing and relating product data.</li>
                   </ul>
                 </p>
               </div>
               <div class="resume-item">
-                <h4>Full Stack Developer</h4>
-                <h5>2022 - 2023</h5>
-                <p><em>Earl Owen Co., Carrollton, TX</em></p>
+                <h4>Quality Engineer - Systems Development</h4>
+                <h5>2018 - 2021</h5>
+                <p><em>Samsung Austin Semiconductor, Carrollton, TX</em></p>
                 <p>
                   <ul>
-                    <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                    <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                    <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                    <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                    <li>Developed, tested, and designed a ticketing application for engineering requests using Vue.js, PHP in Laravel's MVC framework. Saving
+                      engineers on average 30 minutes of work time by automating the data-gathering process.</li>
+                    <li>Designed back-end table schema and project specification before coding began, reducing the number of modifications required during the
+                      development process.</li>
+                    <li>Prioritized customer requests and implemented project improvements to increase customer satisfaction.</li>
                   </ul>
                 </p>
               </div>
@@ -194,68 +168,28 @@
 
               <div class="swiper-slide">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                  <img src="../assets/img/testimonials/jared-avatar.png" class="testimonial-img" alt="">
+                  <h3>Jared Dunham</h3>
+                  <h4>Software Engineer Manager</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    I was impressed with how quickly Austin grew his skills as a full stack developer.
+                    His thoughtful designs, implementations, and ability to collaborate between multiple departments and managers led to many successful projects.
+                    Austin is a great team player and a valuable asset to any team. - July 11, 2023
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    <br>
+
+                    <br>
+                    <h4>Software Engineer Lead</h4>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Austin is a great person to work with - always willing to help and very smart.
+                    He listens to other people's ideas and implements them thoughtfully.
+                    He also works well with the team and contributes to a positive work environment.  - February 18, 2022
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
               </div><!-- End testimonial item -->
 
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
 
             </div>
             <div class="swiper-pagination"></div>
@@ -264,82 +198,15 @@
         </div>
       </section><!-- End Testimonials Section -->
 
-      <!-- ======= Contact Me Section ======= -->
-      <section id="contact" class="contact">
-        <div class="container">
-
-          <div class="section-title">
-            <span>Contact Me</span>
-            <h2>Contact Me</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-          </div>
-
-          <div class="row">
-
-            <div class="col-lg-6">
-
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="info-box">
-                    <i class="bx bx-share-alt"></i>
-                    <h3>Social Profiles</h3>
-                    <div class="social-links">
-                      <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                      <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                      <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                      <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-                      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="info-box mt-4">
-                    <i class="bx bx-envelope"></i>
-                    <h3>Email Me</h3>
-                    <p>contact@example.com</p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="info-box mt-4">
-                    <i class="bx bx-phone-call"></i>
-                    <h3>Call Me</h3>
-                    <p>+1 5589 55488 55</p>
-                  </div>
-                </div>
-              </div>
-
-            </div>
-
-            <div class="col-lg-6">
-              <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                <div class="row">
-                  <div class="col-md-6 form-group">
-                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                  </div>
-                  <div class="col-md-6 form-group mt-3 mt-md-0">
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                  </div>
-                </div>
-                <div class="form-group mt-3">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-                </div>
-                <div class="form-group mt-3">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
-                </div>
-                <div class="my-3">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
-                </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
-              </form>
-            </div>
-
-          </div>
-
-        </div>
-      </section><!-- End Contact Me Section -->
-
     </main><!-- End #main -->
 
 </template>
+<script setup>
+</script>
+
+/*.about .skills-content .progress-bar {*/
+/*  width: 100%;*/
+/*  height: 10px;*/
+/*  transition: 0.9s;*/
+/*  background-color: #ffb727;*/
+//}
