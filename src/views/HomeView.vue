@@ -16,7 +16,7 @@
           <div class="section-title">
             <span>About Me</span>
             <h2>About Me</h2>
-            <p>I am Laravel Vue Full Stack Developer with 4+ years of professional developement experience. </p>
+            <p>I am Laravel Vue Developer with 4+ years of professional full stack development experience. </p>
           </div>
 
           <div class="row">
